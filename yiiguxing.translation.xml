@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CHAIN" />
+      <item value="展示" />
+      <item value="界面" />
+      <item value="api Preference" />
+      <item value="retrieve" />
       <item value="module" />
       <item value="&gt; No signature of method: build_96big3zgc48rztbha3jpkatnn.android() is applicable for argument types: (build_96big3zgc48rztbha3jpkatnn$_run_closure1) values: [build_96big3zgc48rztbha3jpkatnn$_run_closure1@4ebdfab7]" />
       <item value="build file '/home/ckl/AndroidStudioProjects/FaceTemperature/build.gradle': 16: all buildscript {} blocks must appear before any plugins {} blocks in the script" />
@@ -18,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
