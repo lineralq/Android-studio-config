@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project. In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes. Consult IDE log for more details (Help | Show Log) (366 ms)" />
       <item value="COMPONENTS" />
       <item value="CHAIN" />
       <item value="展示" />
