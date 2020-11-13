@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scalar" />
       <item value="Access denied finding property &quot;ro.serialno&quot;" />
       <item value="Accessing hidden method" />
       <item value="Accessing hidden method L" />
@@ -46,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
