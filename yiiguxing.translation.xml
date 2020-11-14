@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambient T" />
+      <item value="palette Index" />
       <item value="just now" />
       <item value="Shell" />
       <item value="Scalar" />
@@ -49,8 +51,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="46" />
+        <entry key="CATALAN" value="1" />
       </map>
     </option>
   </component>
