@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** A {@link Dialog} with a header, {@link MaterialCalendar}, and set of actions. */" />
       <item value="* Restrict usage to tests." />
       <item value=" MaterialStyledDatePickerDialog can only be called from tests" />
       <item value="legacy" />
@@ -50,12 +51,11 @@
       <item value="build file '/home/ckl/AndroidStudioProjects/FaceTemperature/build.gradle': 29: only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
       <item value="build file '/home/ckl/AndroidStudioProjects/FaceTemperature/build.gradle': 64: all buildscript {} blocks must appear before any plugins {} blocks in the script" />
       <item value="Minimum supported Gradle version is 6.5. Current version is 6.1.1." />
-      <item value="Failed to apply plugin [id 'com.android.internal.version-check']" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
